@@ -1,4 +1,4 @@
-<img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/901b6234-9d97-40a5-b47a-483d076a7fac" />
+<img width="300" height="100" alt="image" src= "https://www.aub.edu.lb/Style%20Library/AUB/images/American%20University%20of%20Beirut-AUB.png" />
 <br>
 
 # ICIL – Inclusive Cloud Innovation Lab
