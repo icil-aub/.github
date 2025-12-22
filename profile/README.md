@@ -1,4 +1,4 @@
-<img width="300" height="100" alt="image" src= "https://www.aub.edu.lb/Style%20Library/AUB/images/American%20University%20of%20Beirut-AUB.png" />
+<img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/e717fae1-481f-4d5c-9be8-7daa051a5158" />
 
 <br>
 
